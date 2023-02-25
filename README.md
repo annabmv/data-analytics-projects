@@ -1,2 +1,4 @@
-# data-analytics-projects
-Data analytics personal projects for study and practice
+# 📊 Data analytics
+Personal projects for study and practice.
+
+⚠ Under construction
